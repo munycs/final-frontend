@@ -75,12 +75,12 @@
     width: 100%;
 }
 .btn_a:hover {
-    background-color: rgb(91, 91, 244);
+    background-color: rgb(221, 244, 91);
     transition: background-color 0.5s;
     transition: all 0.5s;
 }
 .nav_links:hover {
-    color: blue;
+    color: rgb(27, 234, 20);
     transition: all 0.5s;
 }
 
