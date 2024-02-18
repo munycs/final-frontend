@@ -117,6 +117,7 @@
     }
     #navbar_logo {
         padding-left: 25px;
+        font-size: 1rem;
     }
     .navbar_toggle .bar {
         background-color: white;
@@ -245,6 +246,10 @@
     }
     .main_contain p {
         margin-top: 2rem;
+        font-size: 1.5rem;
+    }
+    #navbar_logo {
+        padding-left: 25px;
         font-size: 1.5rem;
     }
 }
